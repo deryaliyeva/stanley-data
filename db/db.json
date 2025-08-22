@@ -8461,7 +8461,7 @@
             }
         }
     ],
-    "jewellaryEarrings": [
+    "jewelleryEarrings": [
         {
             "id": 226,
             "name": "Classic Gold Stud Earrings",
@@ -8988,7 +8988,7 @@
             }
         }
     ],
-    "jewellaryBracelets": [
+    "jewelleryBracelets": [
         {
             "id": 241,
             "name": "Gold Chain Bracelet",
@@ -9547,7 +9547,7 @@
             }
         }
     ],
-    "jewellaryNecklaces": [
+    "jewelleryNecklaces": [
         {
             "id": 256,
             "name": "Gold Pendant Necklace",
@@ -10074,7 +10074,7 @@
             }
         }
     ],
-    "jewellaryRings": [
+    "jewelleryRings": [
         {
             "id": 271,
             "name": "Platinum Solitaire Ring",
@@ -10633,7 +10633,7 @@
             }
         }
     ],
-    "jewellaryWatches": [
+    "jewelleryWatches": [
         {
             "id": 286,
             "name": "Classic Gold Watch",
